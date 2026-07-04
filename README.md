@@ -125,8 +125,3 @@ Today I learned code talks to 3 people:
 
 Writing `<header>` instead of `<div class="header">` takes the same effort but gives 10x more value. 
 From today, no more div-soup for me 😤
-
-## **What's Next**
-Day 23: I’ll refactor one of my old projects and replace all non-semantic tags with proper ones.
-
-Day 22/30 ✅
